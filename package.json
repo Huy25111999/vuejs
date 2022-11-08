@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "ant",
-=======
   "name": "example",
->>>>>>> 6c37927 (form)
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,12 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "ant-design-vue": "^3.2.14",
-=======
->>>>>>> 6c37927 (form)
+    "bootstrap": "^5.2.2",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-3": "^0.4.6",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "vue": "^3.2.41"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

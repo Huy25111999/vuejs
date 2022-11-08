@@ -1,11 +1,8 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-<<<<<<< HEAD
-import Antd from 'ant-design-vue';
-import 'ant-design-vue/dist/antd.css';
-const app = createApp(App).use(Antd);
-app.mount('#app')
-=======
+import { createApp } from 'vue';
+import App from './App.vue';
+import BootstrapVue3 from 'bootstrap-vue-3'
 
-createApp(App).mount('#app')
->>>>>>> 6c37927 (form)
+import "bootstrap/dist/css/bootstrap.css"
+import "bootstrap-vue-3/dist/bootstrap-vue-3.css"
+
+ createApp(App).use(BootstrapVue3).mount('#app')
