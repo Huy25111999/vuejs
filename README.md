@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ant
+=======
+# example
+>>>>>>> 6c37927 (form)
 
 ## Project setup
 ```
